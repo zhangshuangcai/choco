@@ -239,3 +239,4 @@ Running the build on Mono produces an artifact similar to Windows but may have m
 
 ## Credits
 Chocolatey is brought to you by quite a few people and frameworks. See [CREDITS](https://github.com/chocolatey/choco/blob/master/docs/legal/CREDITS.md) (just LEGAL/Credits.md in the zip folder).
+# 1
